@@ -21,15 +21,8 @@ h3{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
-a{
-  color: #11999E;
-  text-decoration: none;
-  font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
-}
-a:hover{
-  color: #eaf6f6;
-}
+
+
 p{
   line-height: 2;
 }
@@ -104,4 +97,10 @@ hr{
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
+}
+.button{
+  background-color: #66bfbf;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+
 }
