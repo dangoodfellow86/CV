@@ -32,6 +32,9 @@ hr{
   width: 4%;
   margin: 100px auto;
 }
+ul{
+  list-style-type: none;
+}
 .Top{
   background-color: #e4f9f5;
   position: relative;
@@ -115,4 +118,30 @@ hr{
 }
 .Portfolio-Lists {
   list-style: none;
+}
+.Nav-bar{
+  background-color: #e4f9f5;
+  margin: 0;
+  padding: 0;
+  font-size: 1.15rem;
+  color: #66BFBF;
+  font-family: 'Montserrat',
+  sans-serif;
+  padding-bottom: 10px;
+  
+
+}
+.Nav-bar-lists{
+  display: inline-block;
+  margin-bottom: 0;
+}
+.Nav-bar-lists1{
+  display: inline-block;
+  text-align: left;
+  margin-right: 250px;
+}
+.Nav-bar-lists2{
+  display: inline-block;
+  text-align: right;
+  margin-left: 20px;
 }
